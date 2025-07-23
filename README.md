@@ -10,7 +10,7 @@ A robust starter project combining **Flutter** and **Supabase**, purpose-built f
 - 🌙 **Dark Mode** and **local caching**  
 - 🔒 **Ready for collaboration**: preconfigured for community-driven development
 
-Forked from [`miljepetrovic/flutter_supabase_starter_template`], this iteration is tailored for apps like _LibbedUp_, focusing on political connection, real-world event mobilization, and crowd-sourced action.
+Forked from [`miljepetrovic/flutter_supabase_starter_template`], this iteration is tailored for apps that help build political connection, real-world event mobilization, and crowd-sourced action.
 
 ---
 
