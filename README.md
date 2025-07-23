@@ -17,30 +17,28 @@ Forked from [`miljepetrovic/flutter_supabase_starter_template`], this iteration 
 ### 🔧 Quickstart
 
 1. **Clone** this repo  
-   ```bash
-   git clone https://github.com/ChrisKlingler/politics.git
-   cd politics
-````
+```bash
+git clone https://github.com/ChrisKlingler/politics.git
+cd politics
+```
 
 2. **Create a Supabase project** and get your URL + keys
 3. **Configure env vars**:
 
-   ```dotenv
-   SUPABASE_URL=...
-   SUPABASE_ANON_KEY=...
-   ```
+```dotenv
+SUPABASE_URL=...
+SUPABASE_ANON_KEY=...
+```
 4. **Install dependencies**:
 
-   ```bash
-   flutter pub get
-   ```
+```bash
+flutter pub get
+```
 5. **Run the app**:
 
-   ```bash
-   flutter run
-   ```
-
----
+```bash
+flutter run
+```
 
 ### 🤝 Contributing
 
