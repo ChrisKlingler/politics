@@ -1,6 +1,28 @@
-# Flutter & Supabase Mobile App Starter Template
+# Politics
 
-Welcome to the Flutter and Supabase Mobile App Starter Template! This template provides a solid foundation for building cross-platform mobile applications using Flutter and Supabase. This template will save you 24+ hours of development work. You can quickly kickstart your mobile app development process, focusing on creating amazing user experiences without worrying about setting up authentication flows from scratch.
+A starter Flutter project integrated with Supabase for building grassroots civic engagement apps.
+
+🎯 **Features include**:
+- Email/magic-link authentication (Supabase Auth)
+- PostgreSQL schema and RLS-ready backend
+- Image uploads using Supabase Storage
+- Clean architecture with feature-based separation
+- Dark mode support, local caching, and DI setup
+
+This repo is forked from [miljepetrovic/flutter_supabase_starter_template] and adapted as a foundation for LibbedUp-style political and community organizing tools.
+
+## 🚀 Getting Started
+
+1. Clone this repo
+2. Add your Supabase credentials to `.env`
+3. Run `flutter pub get`
+4. Launch with `flutter run`
+
+## 🤝 Contributing
+
+Open source — built for collaboration!
+See CONTRIBUTING.md for guidance on how to help shape this project.
+
 
 ## Available features
 
